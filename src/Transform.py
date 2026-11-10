@@ -41,4 +41,6 @@ def transform(
         "Transformación finalizada"
     )
 
+    logger.info("Versión 2 de transformación")
+
     return df
